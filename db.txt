@@ -1,2 +1,4 @@
 jdbcUsername=root
 jdbcPassword=root123
+jdbcurl="jdbc:mysql:///student
+
