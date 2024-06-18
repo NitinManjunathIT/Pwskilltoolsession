@@ -1,4 +1,5 @@
 jdbcUsername=root
 jdbcPassword=root123
 jdbcurl="jdbc:mysql:///student
+jdbcDriver=com.mysql.cj.jdbc.driver
 
