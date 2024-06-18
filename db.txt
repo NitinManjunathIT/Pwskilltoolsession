@@ -1,0 +1,2 @@
+jdbcUsername=root
+jdbcPassword=root123
